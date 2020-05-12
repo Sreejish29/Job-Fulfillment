@@ -1,0 +1,48 @@
+body{
+  background-color: #f9b384;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.page{
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+
+}
+
+table{
+  border-collapse: collapse;
+  text-align: left;
+  background-color: #f1e3cb;
+}
+
+table, td, th{
+  border: 1px solid black;
+  padding: 20px 20px 20px 5px;
+  text-align: left;
+}
+
+input[type=submit]{
+  height: 30px;
+  width: 80px;
+}
+
+fieldset{
+  width:50%;
+  margin: auto;
+  background-color: #f1e3cb;
+  border-style: none;
+}
+
+legend{
+  font-size: 2rem;
+}
